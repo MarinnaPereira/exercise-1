@@ -10,7 +10,7 @@ Blue
 # Favorite language
 Portuguese
 
-# Favorite restaurants:
+# Favorite restaurants
 - Entre Amigos o Bode (Recife, Brazil)
 - Mingus Zé Maria (Recife, Brazil)
 - DARZ (Vila do Conde, Portugal)
